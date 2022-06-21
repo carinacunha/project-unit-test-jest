@@ -24,7 +24,8 @@ const vqv = (nome, idade) => {
   }
 
   // eslint-disable-next-line max-len
-  let paragraph = `Oi, meu nome é ${nome}!\nTenho ${idade} anos,\ntrabalho na Trybe e mando muito em programação!\n#VQV!`;
+  let paragraph = `Oi, meu nome é ${nome}!\nTenho ${idade} anos,
+trabalho na Trybe e mando muito em programação!\n#VQV!`;
 
   return paragraph;
 };
